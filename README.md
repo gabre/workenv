@@ -4,6 +4,7 @@
 - fd find
 - rgrep
 - glow
+- atuin
 
 # LazyVim
 
